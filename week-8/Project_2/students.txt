@@ -1,0 +1,4 @@
+Name, Age, Department
+John Doe, 20, Computer Science
+Jane Smith, 19, Mechanical Engineering
+Ali Bello, 21, Physics
